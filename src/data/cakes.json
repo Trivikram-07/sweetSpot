@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rasmalai Fusion Cake",
+    "price": 899,
+    "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Spongy milk cake layers soaked in cardamom-saffron syrup with pistachios",
+    "category": "Fusion",
+    "spiceLevel": "Mild",
+    "bestseller": true
+  },
+  {
+    "id": 2,
+    "name": "Gulab Jamun Chocolate Delight",
+    "price": 1299,
+    "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Rich chocolate cake with gulab jamun filling and rose-flavored ganache",
+    "category": "Chocolate",
+    "spiceLevel": "Sweet",
+    "bestseller": false
+  },
+  {
+    "id": 3,
+    "name": "Kulfi Malai Cake",
+    "price": 1099,
+    "image": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Creamy kulfi-flavored layers with almonds, pistachios and cardamom",
+    "category": "Traditional",
+    "spiceLevel": "Aromatic",
+    "bestseller": true
+  },
+  {
+    "id": 4,
+    "name": "Masala Chai Tiramisu",
+    "price": 1199,
+    "image": "https://images.pexels.com/photos/1586947/pexels-photo-1586947.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Italian meets Indian - chai-soaked ladyfingers with spiced mascarpone",
+    "category": "Fusion",
+    "spiceLevel": "Spiced",
+    "bestseller": false
+  },
+  {
+    "id": 5,
+    "name": "Mango Lassi Cheesecake",
+    "price": 1399,
+    "image": "https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Creamy mango cheesecake with yogurt mousse and cardamom crust",
+    "category": "Fruit",
+    "spiceLevel": "Refreshing",
+    "bestseller": true
+  },
+  {
+    "id": 6,
+    "name": "Kesar Pista Velvet",
+    "price": 1599,
+    "image": "https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Saffron-infused red velvet with pistachio cream and edible gold",
+    "category": "Premium",
+    "spiceLevel": "Royal",
+    "bestseller": false
+  },
+  {
+    "id": 7,
+    "name": "Jalebi Crunch Cake",
+    "price": 999,
+    "image": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Crispy jalebi pieces with orange blossom cake and sugar syrup drizzle",
+    "category": "Traditional",
+    "spiceLevel": "Sweet",
+    "bestseller": false
+  },
+  {
+    "id": 8,
+    "name": "Coconut Barfi Bliss",
+    "price": 849,
+    "image": "https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Coconut cake layers with condensed milk frosting and silver leaf",
+    "category": "Traditional",
+    "spiceLevel": "Mild",
+    "bestseller": true
+  },
+  {
+    "id": 9,
+    "name": "Rabri Rose Cake",
+    "price": 1249,
+    "image": "https://images.pexels.com/photos/1998635/pexels-photo-1998635.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Delicate rose-flavored sponge with rabri cream and candied rose petals",
+    "category": "Floral",
+    "spiceLevel": "Fragrant",
+    "bestseller": false
+  }
+]
